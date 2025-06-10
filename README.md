@@ -26,4 +26,7 @@ Slicers and Drill-through Features
 3. Interact with the dashboard to gain insights into sales performance across different dimensions.
 
 ## Screenshots
-https://github.com/Suhail205/-Sales-Dashboard-Power-BI-Project/blob/main/Screenshot%20(13).png
+![Screenshot (14)](https://github.com/user-attachments/assets/64d8ffca-8ced-4c60-8233-a61c9e69a2ff)
+![Screenshot (13)](https://github.com/user-attachments/assets/2cd71b6e-52c5-408f-afdb-a6ea8b362fa9)
+![Screenshot (19)](https://github.com/user-attachments/assets/ff243ea4-2422-48da-be20-ba407c027e8d)
+
