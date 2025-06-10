@@ -24,3 +24,6 @@ Slicers and Drill-through Features
 1. Open the `.pbix` file in Power BI Desktop.
 2. Explore various visuals, slicers, and filters.
 3. Interact with the dashboard to gain insights into sales performance across different dimensions.
+
+## Screenshots
+https://github.com/Suhail205/-Sales-Dashboard-Power-BI-Project/blob/main/Screenshot%20(13).png
